@@ -1,21 +1,10 @@
-# ElixirIdenticon
+# Identicon
 
-**TODO: Add description**
+Piece of code to generate an Identicon like the ones that replace user image on Github.
 
-## Installation
+## Example
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `elixir_identicon` to your list of dependencies in `mix.exs`:
+Generated using by input my name "bruno":
 
-```elixir
-def deps do
-  [
-    {:elixir_identicon, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/elixir_identicon](https://hexdocs.pm/elixir_identicon).
+![bruno](bruno.png)
 
