@@ -1,3 +1,5 @@
+**Just an exercise. Do not use in production.**
+
 # Identicon
 
 Piece of code to generate an Identicon like the ones that replace user image on Github.
