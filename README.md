@@ -2,9 +2,28 @@
 
 Piece of code to generate an Identicon like the ones that replace user image on Github.
 
-## Example
+## Running
+![console](console.png)
 
-Generated using by input my name "bruno":
+## Example
+Images generated using different names:
+
+### bruno
 
 ![bruno](bruno.png)
 
+### luke
+
+![luke](luke.png)
+
+### leia
+
+![leia](leia.png)
+
+### han
+
+![han](han.png)
+
+### yoda
+
+![yoda](yoda.png)
