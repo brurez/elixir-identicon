@@ -1,4 +1,5 @@
 **Just an exercise. Do not use in production.**
+Based on the code from this course https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/ by Stephen Grider.
 
 # Identicon
 
